@@ -186,3 +186,4 @@ obj-y += mmi_annotate/
 obj-y += mmi_info/
 obj-y += tzlog_dump/
 obj-y += watchdogtest/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
