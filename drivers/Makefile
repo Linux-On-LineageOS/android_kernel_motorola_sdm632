@@ -188,3 +188,4 @@ obj-y += tzlog_dump/
 obj-y += watchdogtest/
 obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
 obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
